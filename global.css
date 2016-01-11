@@ -1,0 +1,49 @@
+a {
+    color: #b82619;
+}
+a:visited {
+    color: #017c39;
+}
+
+.ekdm_logo {
+    width: 40%;
+    height: auto;
+    float: left;
+    margin-left: calc(60% / 2);
+    margin-right: calc(60% / 2);
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+.ekdm_logo img {
+    width: 100%;
+    height: auto;
+    float: left;
+}
+
+.mic_logo {
+    width: 30%;
+    height: auto;
+    float: left;
+    margin-left: calc(70% / 2);
+    margin-right: calc(70% / 2);
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+.mic_logo img {
+    width: 100%;
+    height: auto;
+    float: left;
+}
+
+p.info {
+    width: 75%;
+    height: auto;
+    float: left;
+    margin-left: calc(25% / 2);
+    margin-right: calc(25% / 2);
+    margin-top: 25px;
+    margin-bottom: 25px;
+    font-size: 12px;
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+}
